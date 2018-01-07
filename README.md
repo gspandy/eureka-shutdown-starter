@@ -38,4 +38,4 @@ eureka:
 
 ### boot 项目停机流程
 
-![image](/doc/image/spring boot项目shutdown流程.png)
+![image](/doc/image/spring_boot项目shutdown流程.png)
