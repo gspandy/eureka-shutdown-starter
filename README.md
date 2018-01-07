@@ -33,7 +33,9 @@ eureka:
 - **refreshEurekaCache** 客户端缓存刷新端点 200:刷新成功 500:刷新失败 
 
 ### cloud eureka client 缓存刷新流程
-![image](/architecture/yazuo-framework/raw/master/shutdown-starter/doc/image/eureka客户端缓存刷新流程.png)
+
+![image](/doc/image/eureka客户端缓存刷新流程.png)
 
 ### boot 项目停机流程
-![image](/architecture/yazuo-framework/raw/master/shutdown-starter/doc/image/spring boot项目shutdown流程.png)
+
+![image](/doc/image/spring boot项目shutdown流程.png)
